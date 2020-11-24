@@ -115,7 +115,7 @@ p {
 
 .projects-link {
   color: #11999E;
-  text-decoration: none;
+  text-decoration: underline;
   margin-right: 40px;
 }
 
