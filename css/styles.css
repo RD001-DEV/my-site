@@ -113,10 +113,20 @@ p {
   margin: 40px auto 60px;
 }
 
+.projects-link {
+  color: #1E90FF;
+  text-decoration: none;
+  margin-right: 40px;
+}
+
 .footer-link {
   color: #11999E;
   text-decoration: none;
   margin-right: 40px;
+}
+
+.footer-link:hover {
+  color: #eaf6f6;
 }
 
 .footer-link:hover {
